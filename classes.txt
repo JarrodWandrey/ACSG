@@ -1,0 +1,72 @@
+Barbarian
+A Fierce warrior of primitive background who can enter a battle rage.
+Hit die: d12
+Primary ability: Strength
+Saving throw proficiencies: Strength & constitution
+Armor and Weapon proficiencies: light and medium Armor, shields, simple and martial weapons
+Bard
+An inspiring magician whose power echose the music of creation
+Hit die: d8
+Primary ability: Charisma
+Saving throw proficiencies: Dexterity & Charisma
+Armor and Weapon proficiencies: Light armor, simple weapons, hand crossbows, longswords, rapiers, shortswords
+Cleric
+A preistly champion who wields divine magic in service of a higher power
+Hit die: d8
+Primary ability: Wisdom
+Saving throw proficiencies: Wisdom & Charisma
+Armor and Weapon proficiencies: Light and medium armor, shields, simple weapons
+Druid
+Wielding the powers of nature-moonlight and plant growth, fire and lightning-and adopting animal forms
+Hit die: d8
+Primary ability: Wisdom
+Saving throw proficiencies: Intelligence & Wisdom
+Armor and Weapon proficiencies: Light and medium armor, shields, simple weapons
+Fighter
+A master of martial combat, skilled with a variety of weapons and armor
+Hit die: d10
+Primary ability: Strength or Dexterity
+Saving throw proficiencies: Strength & constitution
+Armor and Weapon proficiencies: All armor, sheilds, simple and martial weapons
+Monk
+A master of the martial arts, harnessing the power of the body in pursuit of physical and spiritual prefection
+Hit die: d8
+Primary ability: Wisdom
+Saving throw proficiencies: Wisdom & Dexterity
+Armor and Weapon proficiencies: simple weapons, shortswords
+Paladin
+A holy warrior bound to a sacred oath
+Hit die: d10
+Primary ability: Strength & Charisma
+Saving throw proficiencies: Wisdom & Charisma
+Armor and Weapon proficiencies: All armor, sheilds, simple and martial weapons
+Ranger
+A warrior who uses marlial prowess and nature magic to combat Ihreats on the edges of civilizalion
+Hit die: d10
+Primary ability: Wisdom & Dexterity
+Saving throw proficiencies: Strength & Dexterity
+Armor and Weapon proficiencies: Light and medium armor, shields, simple and martial weapons
+Rogue
+A scoundrel who uses stealth and trickery to overcome obstacles and enemies
+Hit die: d8
+Primary ability: Dexterity
+Saving throw proficiencies: Dexterity & Intelligence
+Armor and Weapon proficiencies: Light and medium armor, shields, simple weapons, hand crossbows, longswords, rapiers, shortswords
+Sorcerer
+A spellcaster who draws on inherent magic from a gift or bloodline
+Hit die: d6
+Primary ability: Charisma
+Saving throw proficiencies: Constitution & Charisma
+Armor and Weapon proficiencies: Daggers, darts, slings, quarterstaffs, light crossbows
+Warlock
+A wielder of magic that is derived from a bargain with an extraplanar entity
+Hit die: d8
+Primary ability: Charisma
+Saving throw proficiencies: Wisdom & Charisma
+Armor and Weapon proficiencies: Light and medium armor, simple weapons
+Wizard
+A scholarly magic-user capable of manipulating the structures of reality
+Hit die: d6
+Primary ability: Intelligence
+Saving throw proficiencies: Wisdom & Intelligence
+Armor and Weapon proficiencies: Daggers, darts, slings, quarterstaffs, light crossbows
